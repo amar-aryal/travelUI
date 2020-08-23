@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:characters/characters.dart';
 
 import 'UI/home_screen.dart';
 
@@ -15,4 +16,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
